@@ -25,7 +25,6 @@
   <br>
 </p>
 
-<h3> My project </h3>
 - 애도 https://github.com/jcs5650/Aedo
 
 
