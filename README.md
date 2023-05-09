@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Minhyuk&fontAlign=70&rotate=13&fontAlignY=25&desc=BackEnd%20Developer&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Minhyuk&fontAlign=70&rotate=13&fontAlignY=25&desc=UserFriendly%20Developer&descAlign=70.&descAlignY=44)
 
 
 <h2> ☁️ Tech Stack </h2>
@@ -37,4 +37,7 @@
 <br/><br/>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcs5650)](https://solved.ac/jcs5650/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minxhvk&show_icons=true&theme=dark)
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Minxhvk&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minxhvk&layout=compact"><br><br>
+
