@@ -12,6 +12,9 @@
   <br>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
   <br>
+<img alt="sonarcloud" src="https://img.shields.io/badge/-NaverCloud-03C75A?style=flat-square&logo=sonarcloud&logoColor=white"/>
+<img alt="amazonaws" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+
 <div/>
 	<h3>Study | Once-Used</h3>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
