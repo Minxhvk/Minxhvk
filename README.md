@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Minhyuk&fontAlign=70&rotate=13&fontAlignY=25&desc=UserFriendly%20Developer&descAlign=70.&descAlignY=44)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MinHyuk's%20GitHub!&fontSize=90" />
 
 
 <h2> ☁️ Tech Stack </h2>
@@ -6,8 +6,10 @@
   <h3>Main</h3>
   <img alt="JAVA" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
   <br/>
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
   <img alt="Django" src="https://img.shields.io/badge/-Django-43853d?style=flat-square&logo=Django&logoColor=white"/>
   <br>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
@@ -18,7 +20,7 @@
 <div/>
 	<h3>Study | Once-Used</h3>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+  
   <img alt="JS" src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
   <br/>
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
