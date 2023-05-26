@@ -18,7 +18,8 @@
 <img alt="amazonaws" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 
 <div/>
-	<h3>Study | Once-Used</h3>
+	<br/>
+<h3>Once-Used</h3>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   
   <img alt="JS" src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
@@ -28,7 +29,7 @@
   <br/>
   <img alt="opencv" src="https://img.shields.io/badge/-opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 
-
+<br/><br/>
 <h2> 📚 Study </h2>
 <h3>Tech Blog</h3>
 <a href="https://velog.io/@manx">
