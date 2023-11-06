@@ -1,40 +1,28 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MinHyuk's%20GitHub!&fontSize=90" />
-
-
 <h2> ☁️ Tech Stack </h2>
 <div>
-  <img alt="JAVA" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
   <br/>
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img alt="Django" src="https://img.shields.io/badge/-Django-43853d?style=flat-square&logo=Django&logoColor=white"/>
   <br>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
   <br>
-<img alt="sonarcloud" src="https://img.shields.io/badge/-NaverCloud-03C75A?style=flat-square&logo=sonarcloud&logoColor=white"/>
+<img alt="docker" src="https://img.shields.io/badge/-docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img alt="amazonaws" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-
-<div/>
-	<br/>
-<h3>Once-Used</h3>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  
-  <img alt="JS" src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-  <br/>
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img alt="docker" src="https://img.shields.io/badge/-docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <br/>
-  <img alt="opencv" src="https://img.shields.io/badge/-opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 
 <br/><br/>
 <h2> 📚 Study </h2>
 <h3>Tech Blog</h3>
-<a href="https://velog.io/@manx">
-  <img alt="Velog" src="https://img.shields.io/badge/velog-%20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/>
-</a>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=manx)](https://velog.io/@manx)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=manx)](https://github.com/eungyeole/velog-readme-stats)
+
     
-<h3>CS Note</h3>
+<h3>Computer Science</h3>
 <a href="https://www.notion.so/minxhvk/296d3c6bf2e047d98ea867f9ae1380dd?v=a11bbd8539174f9eaa9a08ceeadbaf01&pvs=4">
   <img alt="CS Study" src="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
