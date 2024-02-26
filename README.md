@@ -19,10 +19,8 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=manx)](https://velog.io/@manx)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=manx)](https://github.com/eungyeole/velog-readme-stats)
-
     
-<h3>Computer Science</h3>
+<h3>CS</h3>
 <a href="https://www.notion.so/minxhvk/296d3c6bf2e047d98ea867f9ae1380dd?v=a11bbd8539174f9eaa9a08ceeadbaf01&pvs=4">
   <img alt="CS Study" src="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
