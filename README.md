@@ -19,7 +19,6 @@
 |:-----------------------------:|:---------------------------:|
 | <div align="center"><a href="https://velog.io/@manx"><img src="https://velog-readme-stats.vercel.app/api/badge?name=manx" alt="Velog's GitHub stats"></a></div> | <div align="center"><a href="https://www.notion.so/minxhvk/296d3c6bf2e047d98ea867f9ae1380dd?v=a11bbd8539174f9eaa9a08ceeadbaf01&pvs=4"><img src="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white" alt="CS Study"></a></div> |
 
-<br/>
 
 <h2> License </h2>
 
