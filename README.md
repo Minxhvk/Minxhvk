@@ -1,18 +1,10 @@
 <h2> Tech Stack </h2>
-<div>
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <br/>
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <img alt="Django" src="https://img.shields.io/badge/-Django-43853d?style=flat-square&logo=Django&logoColor=white"/>
-  <br>
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-  <br>
-<img alt="docker" src="https://img.shields.io/badge/-docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img alt="amazonaws" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 
-<br/>
+[![My Skills](https://skillicons.dev/icons?i=python,django,java,spring,jquery&theme=dark)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=dark)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=nginx,rabbitmq,git,github,githubactions&theme=dark)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,linux&theme=dark)](https://skillicons.dev)<br/>
+
 <h2> Study </h2>
 
 | <div align="center">Tech Blog</div> | <div align="center">Computer Science</div> |
