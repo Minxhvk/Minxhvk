@@ -29,7 +29,9 @@
 
 <br/>
 
-![aws-certified-solutions-architect-associate (1)](https://github.com/user-attachments/assets/3009739a-56d4-40dd-928e-e38d59394210)
+![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/c4c30698-5b1f-443f-9669-c35b42c3b809)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcs5650)](https://solved.ac/jcs5650/)
+
+
 
 
